@@ -2,7 +2,7 @@
 
 Anggota Kelompok:
 * Osmond Haylim (140810200022)
-* NAMA (NPM)
+* Rafi Alauddin (140810200056)
 * NAMA (NPM)
 ---
 ## Latar Belakang
