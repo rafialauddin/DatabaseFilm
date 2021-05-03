@@ -1,7 +1,7 @@
 # JUDUL_PROYEK
 
 Anggota Kelompok:
-* NAMA (NPM)
+* Osmond Haylim (140810200022)
 * NAMA (NPM)
 * NAMA (NPM)
 ---
